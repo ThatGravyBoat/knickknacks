@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "knickknacks:hammer"
+    },
+    {
+      "type": "neoforge:components",
+      "components": {
+        "minecraft:rarity": "epic"
+      },
+      "items": [
+        "knickknacks:archers_glove",
+        "knickknacks:newtons_null",
+        "knickknacks:life_needle",
+        "knickknacks:alchemic_infuser",
+        "knickknacks:balloon",
+        "knickknacks:miners_goggles",
+        "knickknacks:pocket_furnace",
+        "knickknacks:farmers_amulet",
+        "knickknacks:lucky_horseshoe",
+        "knickknacks:killers_eye",
+        "knickknacks:orb_of_wellness"
+      ]
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "knickknacks:scrap"
+  }
+}

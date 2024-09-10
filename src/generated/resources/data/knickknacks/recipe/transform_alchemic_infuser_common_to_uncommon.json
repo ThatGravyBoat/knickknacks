@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": [],
+  "base": {
+    "type": "neoforge:components",
+    "components": {
+      "minecraft:rarity": "common"
+    },
+    "items": "knickknacks:alchemic_infuser"
+  },
+  "result": {
+    "components": {
+      "minecraft:rarity": "uncommon"
+    },
+    "count": 1,
+    "id": "knickknacks:alchemic_infuser"
+  },
+  "template": {
+    "item": "knickknacks:upgrade"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": [],
+  "base": {
+    "type": "neoforge:components",
+    "components": {
+      "minecraft:rarity": "common"
+    },
+    "items": "knickknacks:miners_goggles"
+  },
+  "result": {
+    "components": {
+      "minecraft:rarity": "uncommon"
+    },
+    "count": 1,
+    "id": "knickknacks:miners_goggles"
+  },
+  "template": {
+    "item": "knickknacks:upgrade"
+  }
+}

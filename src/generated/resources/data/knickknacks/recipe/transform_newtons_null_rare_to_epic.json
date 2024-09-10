@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": [],
+  "base": {
+    "type": "neoforge:components",
+    "components": {
+      "minecraft:rarity": "rare"
+    },
+    "items": "knickknacks:newtons_null"
+  },
+  "result": {
+    "components": {
+      "minecraft:rarity": "epic"
+    },
+    "count": 1,
+    "id": "knickknacks:newtons_null"
+  },
+  "template": {
+    "item": "knickknacks:upgrade"
+  }
+}

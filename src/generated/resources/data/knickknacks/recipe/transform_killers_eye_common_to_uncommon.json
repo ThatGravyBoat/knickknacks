@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": [],
+  "base": {
+    "type": "neoforge:components",
+    "components": {
+      "minecraft:rarity": "common"
+    },
+    "items": "knickknacks:killers_eye"
+  },
+  "result": {
+    "components": {
+      "minecraft:rarity": "uncommon"
+    },
+    "count": 1,
+    "id": "knickknacks:killers_eye"
+  },
+  "template": {
+    "item": "knickknacks:upgrade"
+  }
+}

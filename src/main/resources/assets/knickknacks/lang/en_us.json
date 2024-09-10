@@ -1,0 +1,48 @@
+{
+    "itemGroup.knickknacks": "Knickknacks",
+    "curios.identifier.knickknack": "Knickknack",
+    "curios.modifiers.knickknack": "When in Knickknack slot:",
+    "perk.rarity.common": "Common Perk",
+    "perk.rarity.uncommon": "Uncommon Perk",
+    "perk.rarity.rare": "Rare Perk",
+    "perk.rarity.epic": "Epic Perk",
+    "knickknacks.tooltip.misc.nothing": "Nothing",
+
+    "item.knickknacks.scrap": "Scrap",
+    "item.knickknacks.hammer": "Hammer",
+    "item.knickknacks.upgrade": "Perk Upgrade",
+
+    "item.knickknacks.alchemic_infuser": "Alchemic Infuser",
+    "knickknacks.tooltip.alchemic_infuser.1": "+%d%% Potion Duration",
+
+    "item.knickknacks.archers_glove": "Archer's Glove",
+    "knickknacks.tooltip.archers_glove.1": "%dx Bow Draw Speed",
+
+    "item.knickknacks.balloon": "Balloon",
+
+    "item.knickknacks.farmers_amulet": "Farmer's Amulet",
+    "knickknacks.tooltip.farmers_amulet.1": "%d%% chance to grow crops in 3m radius per tick",
+
+    "item.knickknacks.killers_eye": "Killer's Eye",
+    "knickknacks.tooltip.killers_eye.1": "Mob kills: %d/%d",
+    "knickknacks.tooltip.killers_eye.2": "+0.5%% Damage for every 1k mobs",
+
+    "item.knickknacks.lucky_horseshoe": "Lucky Horseshoe",
+
+    "item.knickknacks.miners_goggles": "Miner's Goggles",
+    "knickknacks.tooltip.miners_goggles.1": "Attuned to: %s",
+    "knickknacks.tooltip.miners_goggles.2": "%dm X-Ray Range",
+
+    "item.knickknacks.newtons_null": "Newton's Null",
+    "knickknacks.tooltip.newtons_null.1": "-%d%% Knockback Applied",
+
+    "item.knickknacks.pocket_furnace": "Pocket Furnace",
+    "knickknacks.tooltip.pocket_furnace.1": "Auto-smelts ores",
+    "knickknacks.tooltip.pocket_furnace.2": "+%d%% XP from auto-smelted ores",
+
+    "item.knickknacks.life_needle": "Life Needle",
+    "knickknacks.tooltip.life_needle.1": "%d%% Life Steal",
+    "knickknacks.tooltip.life_needle.2": "%d Max Life Steal",
+
+    "item.knickknacks.orb_of_wellness": "Orb of Wellness"
+}

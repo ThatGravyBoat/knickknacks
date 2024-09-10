@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": [],
+  "base": {
+    "type": "neoforge:components",
+    "components": {
+      "minecraft:rarity": "uncommon"
+    },
+    "items": "knickknacks:farmers_amulet"
+  },
+  "result": {
+    "components": {
+      "minecraft:rarity": "rare"
+    },
+    "count": 1,
+    "id": "knickknacks:farmers_amulet"
+  },
+  "template": {
+    "item": "knickknacks:upgrade"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": [],
+  "base": {
+    "type": "neoforge:components",
+    "components": {
+      "minecraft:rarity": "uncommon"
+    },
+    "items": "knickknacks:archers_glove"
+  },
+  "result": {
+    "components": {
+      "minecraft:rarity": "rare"
+    },
+    "count": 1,
+    "id": "knickknacks:archers_glove"
+  },
+  "template": {
+    "item": "knickknacks:upgrade"
+  }
+}

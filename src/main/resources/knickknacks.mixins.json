@@ -1,0 +1,13 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "tech.thatgravyboat.knickknacks.mixins",
+    "compatibilityLevel": "JAVA_8",
+    "refmap": "knickknacks.refmap.json",
+    "mixins": [ "common.LevelMixin", "common.MobEffectInstanceAccessor", "common.PotionItemMixin" ],
+    "client": [
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

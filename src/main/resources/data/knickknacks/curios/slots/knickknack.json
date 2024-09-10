@@ -1,0 +1,5 @@
+{
+    "render_toggle": false,
+    "size": 5,
+    "validators": ["knickknacks:predicate"]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": [],
+  "base": {
+    "type": "neoforge:components",
+    "components": {
+      "minecraft:rarity": "rare"
+    },
+    "items": "knickknacks:orb_of_wellness"
+  },
+  "result": {
+    "components": {
+      "minecraft:rarity": "epic"
+    },
+    "count": 1,
+    "id": "knickknacks:orb_of_wellness"
+  },
+  "template": {
+    "item": "knickknacks:upgrade"
+  }
+}

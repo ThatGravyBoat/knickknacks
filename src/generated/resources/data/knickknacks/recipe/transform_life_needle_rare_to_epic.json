@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": [],
+  "base": {
+    "type": "neoforge:components",
+    "components": {
+      "minecraft:rarity": "rare"
+    },
+    "items": "knickknacks:life_needle"
+  },
+  "result": {
+    "components": {
+      "minecraft:rarity": "epic"
+    },
+    "count": 1,
+    "id": "knickknacks:life_needle"
+  },
+  "template": {
+    "item": "knickknacks:upgrade"
+  }
+}
